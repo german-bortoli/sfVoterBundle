@@ -14,3 +14,7 @@ This symfony2 bundle aims to give the possibility to make entities votable, this
  - Load it in your app/appKernel.php
 
       >new HotDesign\sfVoterBundle\sfVoterBundle(),  
+
+
+
+[![Build Status](https://travis-ci.org/Germanaz0/sfVoterBundle.png)](https://travis-ci.org/Germanaz0/sfVoterBundle)
