@@ -1,0 +1,7 @@
+parameters:
+#    sf_voter.example.class: HotDesign\sfVoterBundle\Example
+
+services:
+#    sf_voter.example:
+#        class: %sf_voter.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

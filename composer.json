@@ -1,0 +1,25 @@
+{
+    "name": "hotdesign/sfvoterbundle",
+    "type": "symfony-bundle",
+    "description": "Add simple ratings and votes system to entities",
+    "keywords": ["rating", "votes", "stars"],
+    "homepage": "https://github.com/Germanaz0/sfVoterBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Germanaz0",
+            "email": "germanazo@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.1,<2.2-dev"
+    },
+    "autoload": {
+        "psr-0": { "HotDesign\\sfVoterBundle": "" }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "HotDesign/sfVoterBundle"
+}
